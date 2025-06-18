@@ -20,6 +20,6 @@ This report outlines the detection of unauthorized access to a sensitive file (`
 The attacker connected via SSH and modified the file:
 
 ```bash
-ssh defender@192.168.56.101
+ssh defender@192.168.XX.XXX
 echo "attacker was here" >> ~/testfile.txt
 ```
