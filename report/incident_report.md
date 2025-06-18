@@ -21,5 +21,5 @@ The attacker connected via SSH and modified the file:
 
 ```bash
 ssh defender@192.168.XX.XXX
-echo "attacker was here" >> ~/testfile.txt
+echo "Attacker Was Here" >> ~/testfile.txt
 ```
