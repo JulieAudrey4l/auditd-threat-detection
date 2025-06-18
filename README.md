@@ -35,7 +35,7 @@ This project demonstrates how to monitor and detect unauthorized file access usi
 ##ScreenShots
 | Audit Log Detection | Simulated Attack |
 |---------------------|------------------|
-|![ausearch](screenshots/ausearch_output.png) | ![attack](screenshots/attack_message.png) |
+|![ausearch](screenshots/ausearch_output.PNG) | ![attack](screenshots/attack_message.PNG) |
 
 ##Report
 Full incident write-up is available [here](report/incident_report.md)
